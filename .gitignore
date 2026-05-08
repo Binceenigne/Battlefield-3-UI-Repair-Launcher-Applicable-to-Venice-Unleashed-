@@ -1,0 +1,6 @@
+bf3ui/build/
+bf3ui/dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
